@@ -1,5 +1,8 @@
 # NaturalGradient
 
 ## Introduction
-[Why natural gradient?](http://www.yaroslavvb.com/papers/amari-why.pdf)
+[Why natural gradient?](http://ieeexplore.ieee.org/document/675489/)
 Amari, Douglas
+
+[The Natural Gradient by Analogy to Signal Whitening, and Recipes and Tricks for its Use](https://arxiv.org/abs/1205.1828)
+Jascha Sohl-Dickstein
